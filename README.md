@@ -7,7 +7,7 @@
 # Setting up
 # At commandline console run:
 - Enable you have installed Posgres DB and Create a DB named Challenging
-- run "git clone repo" to get source code.
+- run "git clone [repo](https://github.com/JackyTaan/Vocabulary-Quiz.git)" to get source code.
 
 # Run Back-End APIs: 
 - Modify file .env ( config DB Connection )
@@ -24,4 +24,3 @@
 # Follow this guide to experience the Quiz App"
 - Refer to: https://github.com/JackyTaan/Vocabulary-Quiz/blob/main/Real-Time%20Vocabulary%20Quiz%20Coding%20Challenge.pdf
 
-#
